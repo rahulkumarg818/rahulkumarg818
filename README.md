@@ -1,33 +1,55 @@
- Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
+<h3 align="center">A passionate Backend Developer from India 🚀</h3>
 
-<!--
-**rahulkumarg818/rahulkumarg818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Spring+Boot+%7C+Java+%7C+Backend;BGMI+player+%7C+4-finger+Claw+%7C+Gyro+On;Lifelong+Learner+and+Problem+Solver" />
+</p>
 
-Here are some ideas to get you started:
-# 👋 Hi, I'm Rahul Kumar
-- 💻 3rd Year AIML @ RNSIT, Bangalore
-- 🔥 Passionate about Backend Development
-- 🚀 Currently learning Spring Boot
-- 📫 Reach me at: rahulkumarg818@gmail.com
+---
 
-## 🛠️ Skills
-- Languages: Python, Java
-- Backend: Spring Boot (Learning)
-- Databases: MySQL
-- Tools: Git
+👨‍💻 About Me
 
-## 🚀 Projects
-- 📈 [My Portfolio Website](#) *(Add your project link here)*
-- 🧠 Mini AI tools, coding challenges, and more!
+- 🎓 3rd Year B.E. Student in AI & ML at RNSIT, Bangalore  
+- 🔭 Currently learning Spring Boot  
+- 💻 Passionate about Backend Development   
 
-## 📈 GitHub Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumarg818&show_icons=true&count_private=true)
+---
 
-## 🏆 Badges
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/rahul-kumar-0b1222189)
-[![HackerRank](https://img.shields.io/badge/Hackerrank-Solutions-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/rk8709110932)
+💻 Tech Stack
 
-## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/rahul-kumar-0b1222189)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
+📊 GitHub Stats
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkumarg818&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarg818&layout=compact&theme=tokyonight)
+
+---
+
+🐍 Contribution Snake
+
+![Snake animation](https://github.com/rahulkumarg818/rahulkumarg818/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+📫 Contact Me
+
+- 📧 Email: rahulkumarg818@gmail.com
+- 📱 Phone: +91 8709110932
+- 🌐 GitHub: github.com/rahulkumarg818
+
+---
+
+✨ Fun GIF
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+---
+
+⭐ Thanks for visiting! Don’t forget to star some of my repos! 🌟
