@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend Developer from India 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Spring+Boot+%7C+Java+%7C+Backend;BGMI+player+%7C+4-finger+Claw+%7C+Gyro+On;Lifelong+Learner+and+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+DSA+%7C+OOPs+%7C+MySQL;Backend+Developer+from+India;Lifelong+Learner+and+Problem+Solver" />
 </p>
 
 ---
@@ -11,14 +11,14 @@
 
 - 🎓 3rd Year B.E. Student in AI & ML at RNSIT, Bangalore  
 - 🔭 Currently learning Spring Boot  
-- 💻 Passionate about Backend Development   
+- 💻 Passionate about Backend Development  
 
 ---
 
 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -40,9 +40,10 @@
 
 📫 Contact Me
 
-- 📧 Email: rahulkumarg818@gmail.com
-- 📱 Phone: +91 8709110932
-- 🌐 GitHub: github.com/rahulkumarg818
+- 📧 Email: rahulkumarg818@gmail.com  
+- 📱 Phone: +91 8709110932  
+- 🌐 GitHub: [github.com/rahulkumarg818](https://github.com/rahulkumarg818)  
+- 🔗 LinkedIn: [www.linkedin.com/in/rahul-kumar-0b1222189](https://www.linkedin.com/in/rahul-kumar-0b1222189)
 
 ---
 
