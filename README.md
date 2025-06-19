@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
-<h3 align="center">A passionate Backend Developer from India 🚀</h3>
+<h3 align="center">A Passionate Developer from India 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+DSA+%7C+OOPs+%7C+MySQL;Backend+Developer+from+India;Lifelong+Learner+and+Problem+Solver" />
@@ -10,8 +10,7 @@
 👨‍💻 About Me
 
 - 🎓 3rd Year B.E. Student in AI & ML at RNSIT, Bangalore  
-- 🔭 Currently learning Spring Boot  
-- 💻 Passionate about Backend Development  
+- 🔭 Currently learning Full Stack  
 
 ---
 
