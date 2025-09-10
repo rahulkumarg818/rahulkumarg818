@@ -1,10 +1,10 @@
 # Hi 👋, I'm Rahul Kumar
-### Developer from India 🚀
+### Software Developer from India 🚀
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 4th Year B.E. Student in AI & ML at RNSIT, Bangalore  
+- 🎓 Final Year B.E. Student in AI & ML at RNSIT, Bangalore  
 - 🔭 Currently learning Full Stack Development  
 
 ---
